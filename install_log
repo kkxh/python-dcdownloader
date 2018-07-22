@@ -1,0 +1,136 @@
+(venv) C:\Users\yedw3\PycharmProjects\python-dcdownloader>python setup.py install
+running install
+running bdist_egg
+running egg_info
+writing DCDownloader.egg-info\PKG-INFO
+writing dependency_links to DCDownloader.egg-info\dependency_links.txt
+writing entry points to DCDownloader.egg-info\entry_points.txt
+writing requirements to DCDownloader.egg-info\requires.txt
+writing top-level names to DCDownloader.egg-info\top_level.txt
+reading manifest file 'DCDownloader.egg-info\SOURCES.txt'
+writing manifest file 'DCDownloader.egg-info\SOURCES.txt'
+installing library code to build\bdist.win-amd64\egg
+running install_lib
+running build_py
+copying dcdownloader\aiodownloader.py -> build\lib\dcdownloader
+copying dcdownloader\config.py -> build\lib\dcdownloader
+copying dcdownloader\utils.py -> build\lib\dcdownloader
+creating build\bdist.win-amd64\egg
+creating build\bdist.win-amd64\egg\dcdownloader
+copying build\lib\dcdownloader\aiodownloader.py -> build\bdist.win-amd64\egg\dcdownloader
+copying build\lib\dcdownloader\aio_chapter_list.py -> build\bdist.win-amd64\egg\dcdownloader
+copying build\lib\dcdownloader\base_logger.py -> build\bdist.win-amd64\egg\dcdownloader
+copying build\lib\dcdownloader\config.py -> build\bdist.win-amd64\egg\dcdownloader
+copying build\lib\dcdownloader\main.py -> build\bdist.win-amd64\egg\dcdownloader
+copying build\lib\dcdownloader\title.py -> build\bdist.win-amd64\egg\dcdownloader
+copying build\lib\dcdownloader\utils.py -> build\bdist.win-amd64\egg\dcdownloader
+copying build\lib\dcdownloader\version.py -> build\bdist.win-amd64\egg\dcdownloader
+copying build\lib\dcdownloader\__init__.py -> build\bdist.win-amd64\egg\dcdownloader
+byte-compiling build\bdist.win-amd64\egg\dcdownloader\aiodownloader.py to aiodownloader.cpython-36.pyc
+byte-compiling build\bdist.win-amd64\egg\dcdownloader\aio_chapter_list.py to aio_chapter_list.cpython-36.pyc
+byte-compiling build\bdist.win-amd64\egg\dcdownloader\base_logger.py to base_logger.cpython-36.pyc
+byte-compiling build\bdist.win-amd64\egg\dcdownloader\config.py to config.cpython-36.pyc
+byte-compiling build\bdist.win-amd64\egg\dcdownloader\main.py to main.cpython-36.pyc
+byte-compiling build\bdist.win-amd64\egg\dcdownloader\title.py to title.cpython-36.pyc
+byte-compiling build\bdist.win-amd64\egg\dcdownloader\utils.py to utils.cpython-36.pyc
+byte-compiling build\bdist.win-amd64\egg\dcdownloader\version.py to version.cpython-36.pyc
+byte-compiling build\bdist.win-amd64\egg\dcdownloader\__init__.py to __init__.cpython-36.pyc
+creating build\bdist.win-amd64\egg\EGG-INFO
+copying DCDownloader.egg-info\PKG-INFO -> build\bdist.win-amd64\egg\EGG-INFO
+copying DCDownloader.egg-info\SOURCES.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying DCDownloader.egg-info\dependency_links.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying DCDownloader.egg-info\entry_points.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying DCDownloader.egg-info\requires.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying DCDownloader.egg-info\top_level.txt -> build\bdist.win-amd64\egg\EGG-INFO
+zip_safe flag not set; analyzing archive contents...
+dcdownloader.__pycache__.main.cpython-36: module references __file__
+creating 'dist\DCDownloader-1.0-py3.6.egg' and adding 'build\bdist.win-amd64\egg' to it
+removing 'build\bdist.win-amd64\egg' (and everything under it)
+Processing DCDownloader-1.0-py3.6.egg
+removing 'c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages\DCDownloader-1.0-py3.6.egg' (and everything under it)
+creating c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages\DCDownloader-1.0-py3.6.egg
+Extracting DCDownloader-1.0-py3.6.egg to c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+DCDownloader 1.0 is already the active version in easy-install.pth
+Installing dcdownloader-script.py script to C:\Users\yedw3\PycharmProjects\python-dcdownloader\venv\Scripts
+Installing dcdownloader.exe script to C:\Users\yedw3\PycharmProjects\python-dcdownloader\venv\Scripts
+
+Installed c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages\dcdownloader-1.0-py3.6.egg
+Processing dependencies for DCDownloader==1.0
+Searching for PyYAML==3.12
+Best match: PyYAML 3.12
+Adding PyYAML 3.12 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for pyquery==1.4.0
+Best match: pyquery 1.4.0
+Adding pyquery 1.4.0 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for aiofiles==0.3.2
+Best match: aiofiles 0.3.2
+Adding aiofiles 0.3.2 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for colorlog==3.1.2
+Best match: colorlog 3.1.2
+Adding colorlog 3.1.2 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for aiohttp==3.0.9
+Best match: aiohttp 3.0.9
+Adding aiohttp 3.0.9 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for cssselect==1.0.3
+Best match: cssselect 1.0.3
+Adding cssselect 1.0.3 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for lxml==4.2.0
+Best match: lxml 4.2.0
+Adding lxml 4.2.0 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for colorama==0.3.9
+Best match: colorama 0.3.9
+Adding colorama 0.3.9 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for attrs==17.4.0
+Best match: attrs 17.4.0
+Adding attrs 17.4.0 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for chardet==3.0.4
+Best match: chardet 3.0.4
+Adding chardet 3.0.4 to easy-install.pth file
+Installing chardetect-script.py script to C:\Users\yedw3\PycharmProjects\python-dcdownloader\venv\Scripts
+Installing chardetect.exe script to C:\Users\yedw3\PycharmProjects\python-dcdownloader\venv\Scripts
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for yarl==1.1.1
+Best match: yarl 1.1.1
+Adding yarl 1.1.1 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for idna-ssl==1.0.1
+Best match: idna-ssl 1.0.1
+Adding idna-ssl 1.0.1 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for async-timeout==2.0.1
+Best match: async-timeout 2.0.1
+Adding async-timeout 2.0.1 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for multidict==4.1.0
+Best match: multidict 4.1.0
+Adding multidict 4.1.0 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Searching for idna==2.6
+Best match: idna 2.6
+Adding idna 2.6 to easy-install.pth file
+
+Using c:\users\yedw3\pycharmprojects\python-dcdownloader\venv\lib\site-packages
+Finished processing dependencies for DCDownloader==1.0
